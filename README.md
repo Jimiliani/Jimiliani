@@ -10,3 +10,4 @@
 - Интернет магазин на django rest framework: my_python/shop
 - Социальная сеть на django:  my_python/greenleaf
 
+-->
