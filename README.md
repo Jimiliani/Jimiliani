@@ -1,8 +1,5 @@
-### Привет 👋
+### Hi! 👋
 
-Если вы здесь оказались, то скорее всего хотите посмотреть на код в моих проектах, вот их список(от старых к новым):
-- Парсер RSS лент на python: my_python/rss_parser
-- Консольное приложение для отслеживания новых коммитов в выбранных репозиториях: my_python/commit_manager
-- Интернет магазин на django rest framework: my_python/shop
-- Социальная сеть на django:  my_python/greenleaf
+My name is Dmitry Korolev and I'm python backend developer. I'm from Russia, live in Saint Petersubrg and currently working at <a href="https://www.sixhands.co/">Sixhands</a>. <br>
+You can contact me on <a href="https://t.me/jimiliani">telegram</a> or with email - dikorolyov@mail.ru
 
